@@ -1,5 +1,7 @@
 # VBA-challenge
 
+**For 32-bit versions of Excel** it is necessary to run the code found in _"VBA Script File 32-bit Compatible"_. The original submission found in _"VBA Script File"_ is only a valid code submission for 64-bit versions of Excel.
+
 The final script was executed using the button titled "Main Code 1 Final" as seen in Y2018_Screenshot.png
 The contents of this button are the lines 23 through 145 in the VBA Script File.cls
 
