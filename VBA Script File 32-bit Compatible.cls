@@ -8,7 +8,6 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = True
 
-Private Sub CommandButton6_Click()
 For Each ws In Worksheets
 lastrow = ws.Cells(Rows.count, 9).End(xlUp).Row
 For i = 2 To lastrow
@@ -18,9 +17,7 @@ Next
 Next
 ws.Range("P2:Q4").Clear
 Next
-End Sub
 
-Private Sub CommandButton7_Click()
 For Each ws In Worksheets
 'Declaring variables
 lastrow1 = ws.Cells(Rows.count, 1).End(xlUp).Row
@@ -142,6 +139,5 @@ ws.Range("Q2").Value = Format(ws.Range("Q2").Value, "Percent")
 ws.Range("Q3").Value = Format(ws.Range("Q3").Value, "Percent")
 
 Next
-End Sub
 
 
