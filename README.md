@@ -5,6 +5,8 @@
 The final script was executed using the button titled "Main Code 1 Final" as seen in Y2018_Screenshot.png
 The contents of this button are the lines 23 through 145 in the VBA Script File.cls
 
+**Buttonless Code**: Run lines 21 through 141 in _"VBA Script File 32-bit Compatible"_.
+
 Lines 11 through 21 in the VBA Script File.cls represent a "reset" button made solely for aid in the creation of the main script and do not contribute to the primary assignment. 
 
 Comments are made within the primary script to signal which lines serve to answer which parts of the assignment. They are detailed as such:
